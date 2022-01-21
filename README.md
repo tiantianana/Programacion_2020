@@ -1,9 +1,8 @@
 # Carlos III - Programación 
 Incluye todas los trabajos realizados a lo largo del primer curso 2019/2020.
 
-Lenguaje: Python
-
-IDE: Spyder
+Lenguaje: Python <br/>
+IDE: Spyder <br/>
 
 Descripción del contenido:
 
